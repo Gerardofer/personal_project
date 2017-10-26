@@ -1,0 +1,48 @@
+body {
+	padding-top: 70px;
+}
+
+.navbar.navbar-inverse.navbar-fixed-top {
+	background-color: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+ }
+
+.jumbotron:hover, .btn:hover {
+	background-color: #9e8f09;
+	color: #f4f2f2;
+}
+
+.text {
+	margin-top: 15px;
+}
+
+.btn-success {
+	background-color: #529b68;
+}
+
+.feedback {
+	margin-left: 85px;
+}
+
+.blue {
+	background: orange;
+	border: 2px solid red;
+}
+
+.nested {
+	background-color: green;
+	border: 2px dashed blue;
+}
+
+.nested2 {
+	background-color: black;
+	border: 2px dashed pink;
+	height: 25px;
+}
